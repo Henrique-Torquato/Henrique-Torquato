@@ -3,11 +3,13 @@
 
 ---
 
-🎓 **Atualmente**: Analista de Pricing na **Bauducco**, atuando com:
+🎓 **Atualmente**: Analista de Pricing Sr. na **Leo Madeiras**, atuando com:
 - Estratégias de **Revenue Management**
 - Análise de **ROI e Elasticidade de Preços**
 - Monitoramento de Concorrência
 - Projetos de Inovação e Expansão Comercial
+- Desenvolvimento de Softwares (Scrapers, Atumações, Simuladores, etc)
+- Desenvolvimento Web
 
 ---
 

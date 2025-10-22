@@ -8,7 +8,7 @@
 - Análise de **ROI e Elasticidade de Preços**
 - Monitoramento de Concorrência
 - Projetos de Inovação e Expansão Comercial
-- Desenvolvimento de Softwares (Scrapers, Atumações, Simuladores, etc)
+- Desenvolvimento de Softwares (Scrapers, Automações, Simuladores, etc)
 - Desenvolvimento Web
 
 ---
